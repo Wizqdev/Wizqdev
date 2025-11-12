@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Wizq;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wizqdev&label=Profile%20Views&color=FF6B6B&style=flat" alt="Profile Views" />
+</div>
+
 <p align="center">
   <em>Transforming ideas into digital reality, one line of code at a time 🚀</em>
 </p>
