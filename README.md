@@ -1,60 +1,98 @@
-# <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
-![Profile Views](https://komarev.com/ghpvc/?username=Wizqdev&color=1F6FEB)
+# 👋 Hey there, I'm Wizq!
 
-I'm Wizq, A Full Stack Web Developer
-hire! [Contact me](https://github.com/Wizqdev#-socials) To Know More.
+## 🚀 Full Stack Web Developer
 
-# 🛠️ Tools & Technologies
-Tools And Techonologies I've Used.
-<details>
- <summary>Expand</summary>
+Welcome to my digital space! I'm a passionate Full Stack Developer specializing in creating modern web applications and digital experiences. I love turning ideas into reality through clean code and innovative solutions.
 
+---
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizqdev&layout=compact)
+## 🌟 About Me
 
- 
-## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+- 🔭 **Currently Working On**: Modern web applications with React, Next.js, and Node.js
+- 🌱 **Learning**: Always exploring new technologies and best practices
+- 💡 **Passionate About**: Open source, performance optimization, and user experience
+- 📫 **Let's Connect**: [contact@wizq.dev](mailto:contact@wizq.dev)
 
-## Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-## Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🛠️ Tech Stack
 
-## Code Editors & IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### Database & Tools
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</details>
+---
 
-# 📊 My Stats
-Top Languages, Github Stats, Etc.
-<details>
- <summary>Expand</summary>
- 
- <div align="center">
-  <img alt="Wizqdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wizqdev&count_private=true&show_icons=true&theme=github_dark" />
- </div>
- 
-</details>
+## 🎯 Featured Projects
 
-# 🤙 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/778254181303451658)
+### 🌐 Hosting Website Templates
+A collection of modern, responsive hosting website templates built with React, Next.js, and Tailwind CSS. Perfect for free and paid hosting services.
+
+- **Tech Stack**: React, Next.js, Tailwind CSS, Node.js, Express.js
+- **Features**: Modern design, responsive layout, optimized performance
+- **Repository**: [Hosting Website Template](https://github.com/Wizqdev/Hosting-Website)
+
+### 📡 CDN (Content Delivery Network)
+A custom-built Content Delivery Network for efficient content distribution and caching.
+
+- **Tech Stack**: Node.js, Nginx, JavaScript, Express.js
+- **Features**: Content caching, efficient distribution, performance optimization
+- **Repository**: [Cdn](https://github.com/Wizqdev/Cdn)
+
+### 🤖 Discord Bot Solutions
+Specialized Discord bots for server management and security, including anti-spy bot protection.
+
+- **Tech Stack**: Node.js, Discord.js, JavaScript
+- **Features**: Automated moderation, security enhancements, server protection
+- **Repository**: [Remove-Spy.pet](https://github.com/Wizqdev/Remove-Spy.pet)
+
+---
+
+## 📊 GitHub Stats
+
+![Wizq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wizqdev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wizqdev&layout=compact&theme=radical)
+
+---
+
+## 🚀 Let's Connect
+
+Feel free to reach out if you're interested in collaborating or just want to connect!
+
+<div align="center">
+  <a href="https://discord.com/users/778254181303451658" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://github.com/Wizqdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:contact@wizq.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
+
+## 🌐 Portfolio Website
+
+Check out my complete portfolio at **[wizq.dev](https://wizq.dev)** to see more of my work and get in touch!
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+---
+
+*⭐ If you like what you see, don't forget to star my repositories!
