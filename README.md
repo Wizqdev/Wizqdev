@@ -1,229 +1,216 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Wizq&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Digital%20Architect&descAlignY=52&descSize=18" width="100%" alt="Header"/>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=WIZQ&fontSize=90&fontColor=fff&animation=twinkling&stroke=FF6B6B&strokeWidth=3" width="100%"/>
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Transforming+Complex+Challenges+into+Elegant+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<!-- Subtitle Badges -->
+<p>
+  <img src="https://img.shields.io/badge/🚀_Senior_Full_Stack_Engineer-FF6B6B?style=for-the-badge" alt="Role"/>
+  <img src="https://img.shields.io/badge/💼_Open_for_Opportunities-4ECDC4?style=for-the-badge" alt="Status"/>
+</p>
 
-<br/>
+<!-- Social Links -->
+<p>
+  <a href="https://wizq.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=flat-square&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Wizqdev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://discord.com/users/778254181303451658"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:contact@wizq.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<!-- Professional Badges -->
-<a href="https://wizq.dev"><img src="https://img.shields.io/badge/Portfolio-wizq.dev-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=Wizqdev&label=Profile%20Views&color=45B7D1&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Wizqdev?style=for-the-badge&color=4ECDC4&labelColor=1a1a2e&logo=github" alt="Followers"/>
-
-<br/><br/>
-
-<!-- Quick Stats Cards -->
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Experience-Senior%20Level-blueviolet?style=flat-square&logo=expertise&logoColor=white" alt="Experience"/>
-<img src="https://img.shields.io/badge/Projects-20%2B%20Delivered-critical?style=flat-square&logo=project&logoColor=white" alt="Projects"/>
-<img src="https://img.shields.io/badge/Code%20Quality-Production%20Grade-blue?style=flat-square&logo=codacy&logoColor=white" alt="Quality"/>
+<img src="https://komarev.com/ghpvc/?username=Wizqdev&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-<!-- About Section with Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## ⚡ Quick Facts
 
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
-
-```typescript
-const wizq: SeniorEngineer = {
-  name: "Wizq",
-  role: "Senior Full Stack Engineer",
-  location: "Building the Future 🌍",
-  
-  expertise: {
-    frontend: ["React", "Next.js", "TypeScript", "Vue.js"],
-    backend: ["Node.js", "Express", "Python", "GraphQL"],
-    database: ["MongoDB", "PostgreSQL", "Redis", "Supabase"],
-    devops: ["Docker", "AWS", "Vercel", "CI/CD"],
-    architecture: ["Microservices", "Event-Driven", "REST", "WebSockets"]
-  },
-  
-  philosophy: "Quality is not negotiable—Every line of code should serve a purpose",
-  
-  currentFocus: [
-    "🏗️ Architecting enterprise-scale distributed systems",
-    "⚡ Performance optimization & Core Web Vitals",
-    "🔒 Security-first development practices",
-    "📚 Mentoring the next generation of developers"
-  ]
+```javascript
+const wizq = {
+    title: "Senior Full Stack Engineer",
+    code: ["JavaScript", "TypeScript", "Python", "Go"],
+    tools: ["React", "Next.js", "Node.js", "Docker", "AWS"],
+    architecture: ["Microservices", "Event-Driven", "Serverless"],
+    motto: "Building elegant solutions for complex problems"
 };
 ```
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **Tech Arsenal**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 **Frontend Mastery**
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,sass,redux&theme=dark" alt="Frontend Skills"/></a>
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<br/>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ⚙️ **Backend Engineering**
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,graphql,prisma,mongodb&theme=dark" alt="Backend Skills"/></a>
-
-<br/>
-
-### ☁️ **Cloud & DevOps**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,vercel,nginx,linux,github&theme=dark" alt="DevOps Skills"/></a>
-
-<br/>
-
-### 🛠️ **Tools & Platforms**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode,figma,postman,git,redis,supabase&theme=dark" alt="Tools"/></a>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📊 **GitHub Analytics**
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Wizqdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wizqdev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wizqdev&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wizqdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wizqdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Wizqdev&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4&sideLabels=4ECDC4" width="60%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=Wizqdev&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizqdev&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4ECDC4&area=true&area_color=FF6B6B&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Architecture
+- Microservices Design
+- Distributed Systems
+- Event-Driven Architecture
+- API Design & Development
+
+</td>
+<td width="50%">
+
+### ⚡ Performance
+- Core Web Vitals Optimization
+- Database Query Optimization
+- Caching Strategies
+- Load Balancing
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 Security
+- Authentication Systems
+- Data Protection & Encryption
+- OWASP Best Practices
+- Security Auditing
+
+</td>
+<td width="50%">
+
+### 👥 Leadership
+- Code Review Processes
+- Technical Mentoring
+- Architecture Decisions
+- Team Collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💭 Philosophy
+
+> *"Quality is not an afterthought but a foundational principle that influences every architectural decision."*
+
+> *"Enterprise software demands strategic vision—understanding business objectives, user needs, and long-term scalability."*
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://wizq.dev">
+  <img src="https://img.shields.io/badge/Portfolio-wizq.dev-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:contact@wizq.dev">
+  <img src="https://img.shields.io/badge/Email-contact@wizq.dev-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://discord.com/users/778254181303451658">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/Wizqdev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wizqdev&theme=react&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=4ECDC4&currStreakNum=FFFFFF&dates=888888" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/Wizqdev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wizqdev&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=4ECDC4&area=true&area_color=FF6B6B&hide_border=true" width="100%" alt="Activity Graph"/>
-</a>
-
-</div>
+**💼 Available for senior-level roles, consulting, and architecture design**
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🏆 **Achievements & Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wizqdev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🎯 **Core Competencies**
-
-<div align="center">
-
-| 🏗️ Architecture | ⚡ Performance | 🔒 Security | 👥 Leadership |
-|:---:|:---:|:---:|:---:|
-| Microservices Design | Core Web Vitals | Auth Systems | Code Reviews |
-| Distributed Systems | Load Optimization | Data Protection | Team Mentoring |
-| Event-Driven Arch | Caching Strategies | OWASP Standards | Tech Strategy |
-| API Design | Database Tuning | Compliance | Best Practices |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 💡 **Engineering Philosophy**
-
-<div align="center">
-
-> *"Enterprise software architecture demands strategic vision beyond technical implementation—it requires understanding business objectives, user needs, and long-term scalability."*
-
-<br/>
-
-> *"Quality is not an afterthought but a foundational principle that influences every architectural decision, from database schema to user interface design."*
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-
-<a href="https://wizq.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/Wizqdev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://discord.com/users/778254181303451658" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="mailto:contact@wizq.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-### 🎯 **Open for Collaboration**
-
-<img src="https://img.shields.io/badge/Available%20for-Senior%20Roles%20%7C%20Consulting%20%7C%20Architecture%20Design-4ECDC4?style=for-the-badge" alt="Availability"/>
-
-<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
-<br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" width="100%" alt="Footer"/>
+---
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Developer Humor" />
-  
-  <br/><br/>
-  
-  <b>⭐ If you like what you see, consider giving my repos a star!</b>
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95-FF6B6B?style=flat-square" alt="Made with Love"/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+<sub>⭐ Star my repos if you find them useful!</sub>
+
 </div>
